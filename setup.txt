@@ -1,0 +1,5 @@
+1) Setup repository
+2) Setup virtual environment with Python version 3.4
+3) Activate venv
+4) Install Django
+  pip install Django==2.0.0
